@@ -1,0 +1,7 @@
+Hello everyone!
+
+I'm Dan Tran, currently teaching myself to become a full-stack web developer!
+
+I'm following the instructions Git Basics | The Odin Project
+
+Have a good day ^-^
